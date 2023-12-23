@@ -1,7 +1,13 @@
 body {
+    color: aliceblue;
     background-color: rgb(5, 11, 26);
 }
-h1 {
-    color: #f6eded;}
-p  {
-    text-decoration-color: rgb(230, 175, 108);}
+div {
+    color: aliceblue;
+    background-color: rgb(3, 26, 42);
+
+}
+textarea {
+    background-color: rgb(2, 14, 42);
+    border-color: rgb(2, 14, 42);
+}
