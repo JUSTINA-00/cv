@@ -5,6 +5,11 @@ body {
 div {
     color: aliceblue;
     background-color: rgb(3, 26, 42);
+    
+
+}
+
+.divheading { width: 70%; 
 
 }
 textarea {
