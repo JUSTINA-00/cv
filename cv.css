@@ -2,17 +2,69 @@ body {
     color: aliceblue;
     background-color: rgb(5, 11, 26);
 }
+
+
+
 div {
     color: aliceblue;
     background-color: rgb(3, 26, 42);
-    
-
 }
 
-.divheading { width: 70%; 
-
+.divheading {
+     width: 70%; 
+     background-color: rgba(40, 59, 69, 0.83);
+     border-radius: 15px;
 }
-textarea {
+
+
+.textareaservices {
+    width: 5cm; height: 4cm;
     background-color: rgb(2, 14, 42);
-    border-color: rgb(2, 14, 42);
+    border-color: rgb(1, 31, 102);
+    margin-left: 5%; margin-right: 5%; margin-top: 5%; margin-bottom: 5%;
+    border-radius: 10px;
+    
+}
+
+.textareamyworks {
+    width: 75%; height: 10%;
+    background-color: rgb(2, 14, 42);
+    border-color: rgb(1, 31, 102);
+    margin-left: 10%; margin-right: 10%; margin-top: 5%; margin-bottom: 5%;
+    border-radius: 25px;
+}
+
+.divanchor {width: 70%; height: .8cm;
+    background-color: rgba(1, 42, 80, 0.616);
+    border-radius: 15px;
+}
+
+.picture {
+    width:150px; height:200px; 
+    position:absolute; top:20px; right:30px;
+    background-color: black;
+    border-color: black;
+}
+
+.divcontent {
+    background-color: rgba(36, 36, 114, 0.389);
+    border-radius: 8px;
+    padding-top: 3%; padding-bottom: 3%; padding-left: 3%; padding-right: 3%;
+    text-align: center; 
+    width: 90%;
+}
+
+.divservices {
+    background-color: rgba(36, 36, 114, 0.389);
+    border-radius: 8px;
+}
+
+.divservices {
+    background-color: rgba(36, 36, 114, 0.389);
+    border-radius: 8px;
+}
+
+.divmyworks {
+    background-color: rgba(36, 36, 114, 0.389);
+    border-radius: 8px;
 }
