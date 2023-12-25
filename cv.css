@@ -27,7 +27,10 @@ body {
 .textareaachievements {
     color: white;
     background-color: rgb(1, 1, 30);
-    background-image: url(https://github.com/JUSTINA-00/cv/blob/main/achievements.png);
+    background-image: url(https://i.pinimg.com/originals/42/6f/f8/426ff8ca6e599163e3a6bcbc0be19816.jpg);
+    background-position: center;
+    background-size: contain;
+    border-color: blueviolet;
     height: 4cm;
     width: 6cm;
 }
