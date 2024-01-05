@@ -104,6 +104,10 @@ body {
     padding-bottom: 3cm; 
     padding-left: 1cm; 
     padding-right: 1cm;
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+
 }
 .textareaservices {
     width: 5cm; 
